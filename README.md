@@ -1,7 +1,7 @@
 ## Hi there, I'm Gustavo Vieira <img src="http://gifgifs.com/animations/creatures-cartoons/cartoons-simpsons/homer_simpson.gif" width="50" >
 
-- 🌱 I’m currently learning data cience and some technologys
-- 😄 Pronouns: Him/His
+- 👨‍💻 I’m currently learning data cience and some technologys
+- 👨‍🚀 Pronouns: Him/His
 
 <div align="center">
   <a href="https://github.com/GusViieira">
@@ -16,5 +16,7 @@
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/c/c-plain.svg">
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/java/java-original.svg">
 <img align="center" height="30" width="40" src="https://iconape.com/wp-content/files/rf/58501/svg/elastic-stack.svg">
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/git/git-original.svg">  
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/gitlab/gitlab-original.svg">
   
-##
+  ##
