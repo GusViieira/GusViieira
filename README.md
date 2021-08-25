@@ -2,6 +2,7 @@
 
 - 👨‍💻 I’m currently learning data cience and some technologys
 - 👨‍🚀 Pronouns: Him/His
+- ☕ Java Junior Developer
 
 <div align="center">
   <a href="https://github.com/GusViieira">
