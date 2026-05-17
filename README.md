@@ -1,7 +1,7 @@
 ## Hi there, I'm Gustavo Vieira <img src="http://gifgifs.com/animations/creatures-cartoons/cartoons-simpsons/homer_simpson.gif" width="50" >
 
 - 👨‍🚀 Pronouns: Him/His
-- ☕ Developer FrontEnd
+- ☕ Java Developer
 
 <div align="center">
   <a href="https://github.com/GusViieira">
